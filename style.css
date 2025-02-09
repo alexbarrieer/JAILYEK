@@ -454,6 +454,10 @@ footer p {
 /* Responsive Design */
 
 @media (max-width: 768px) {
+
+  #hero {
+        height: 175vh;
+    }
     .nav-links {
         display: none;
     }
